@@ -57,9 +57,7 @@ for (rowData = 1; rowData <= findTestData('HitungProperti/TDHitungProperti').get
 			WebUI.focus(findTestObject('Page Hitung Harga Properti Maksimal BTN/Button Hitung'))
 			
 			WebUI.click(findTestObject('Page Hitung Harga Properti Maksimal BTN/Button Hitung'))
-			
-			//WebUI.scrollToElement(findTestObject('Page Hitung Harga Properti Maksimal BTN/txtPengeluaran'), 10)
-			
+						
 			WebUI.focus(findTestObject('Page Hitung Harga Properti Maksimal BTN/txtPemasukan'))
 			
 			String txtHitungReal = WebUI.getText(findTestObject('Page Hitung Harga Properti Maksimal BTN/TextHasilKalkulasi'))
