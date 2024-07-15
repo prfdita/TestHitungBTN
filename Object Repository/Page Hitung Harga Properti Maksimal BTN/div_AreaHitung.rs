@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AreaHitung</name>
+   <tag></tag>
+   <elementGuidId>ca00ae6d-da6e-4fb8-bf63-cceedf5aef09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='hitung_harga']/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.d-md-flex.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d65ef1d4-1b5d-4625-8d04-92b8c9a51ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row d-md-flex align-items-center</value>
+      <webElementGuid>23794e5d-b509-462e-bf7a-4f491f9e5194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu.Lengkapi setiap field yang ada di samping dan klik hitung.Penghasilan TotalPer BulanPengeluaranPer BulanJangka Waktu1 Tahun2 Tahun3 Tahun4 Tahun5 Tahun6 Tahun7 Tahun8 Tahun9 Tahun10 Tahun11 Tahun12 Tahun13 Tahun14 Tahun15 Tahun16 Tahun17 Tahun18 Tahun19 Tahun20 Tahun21 Tahun22 Tahun23 Tahun24 Tahun25 Tahun26 Tahun27 Tahun28 Tahun29 Tahun30 TahunJangka WaktuHitungLengkapi setiap field yang ada di samping dan klik hitung.</value>
+      <webElementGuid>f17b5e20-89ad-4033-9e82-651ee103d5cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hitung_harga&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 offset-md-1&quot;]/div[@class=&quot;card card_hitung_harga&quot;]/div[@class=&quot;card-body p-0&quot;]/div[@class=&quot;row d-md-flex align-items-center&quot;]</value>
+      <webElementGuid>be1d5cb5-891b-4e80-813e-be4aadf1cf23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hitung_harga']/div/div/div/div[2]/div/div</value>
+      <webElementGuid>948e66e1-5744-481d-8a6d-ef582b561c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung Harga Properti Maksimal'])[1]/following::div[3]</value>
+      <webElementGuid>12a4327f-a307-4e66-b772-06f0f29b41e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung Harga'])[3]/following::div[7]</value>
+      <webElementGuid>49a9f45f-be1e-4ad0-a000-e1dc92108c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/div/div</value>
+      <webElementGuid>5c14d8be-1215-4215-97dc-7e1ef675b8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu.Lengkapi setiap field yang ada di samping dan klik hitung.Penghasilan TotalPer BulanPengeluaranPer BulanJangka Waktu1 Tahun2 Tahun3 Tahun4 Tahun5 Tahun6 Tahun7 Tahun8 Tahun9 Tahun10 Tahun11 Tahun12 Tahun13 Tahun14 Tahun15 Tahun16 Tahun17 Tahun18 Tahun19 Tahun20 Tahun21 Tahun22 Tahun23 Tahun24 Tahun25 Tahun26 Tahun27 Tahun28 Tahun29 Tahun30 TahunJangka WaktuHitungLengkapi setiap field yang ada di samping dan klik hitung.' or . = 'Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu.Lengkapi setiap field yang ada di samping dan klik hitung.Penghasilan TotalPer BulanPengeluaranPer BulanJangka Waktu1 Tahun2 Tahun3 Tahun4 Tahun5 Tahun6 Tahun7 Tahun8 Tahun9 Tahun10 Tahun11 Tahun12 Tahun13 Tahun14 Tahun15 Tahun16 Tahun17 Tahun18 Tahun19 Tahun20 Tahun21 Tahun22 Tahun23 Tahun24 Tahun25 Tahun26 Tahun27 Tahun28 Tahun29 Tahun30 TahunJangka WaktuHitungLengkapi setiap field yang ada di samping dan klik hitung.')]</value>
+      <webElementGuid>42ba8ce2-9988-4390-b51a-5678c4b9cdb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msg Validasi Pengeluaran Lebih Besar</name>
+   <tag></tag>
+   <elementGuidId>a30be07b-fbaf-434f-b1eb-1c877eacced5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_hitung_harga']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a83c0b7b-c238-459b-9bcd-53da0f24a2b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Isi kurang dari nilai sebelumnya</value>
+      <webElementGuid>a2454f5e-7533-43b1-b57e-7b5dd460091b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_hitung_harga&quot;)/div[@class=&quot;col-md-12&quot;]/p[1]</value>
+      <webElementGuid>ce520bce-a122-4f85-8b18-1b46e834d47e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_hitung_harga']/div/p</value>
+      <webElementGuid>462a726f-9ccf-4bb2-bcc3-41e5e2f0f079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per Bulan'])[2]/following::p[2]</value>
+      <webElementGuid>a4bea6e7-33a6-45fa-918e-305ee497e58e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangka Waktu'])[2]/preceding::p[1]</value>
+      <webElementGuid>f6cb773b-a1f5-4361-9045-e268423db353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung'])[1]/preceding::p[1]</value>
+      <webElementGuid>2a85e80e-a3da-4e58-918a-1e1bfe8113cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Isi kurang dari nilai sebelumnya']/parent::*</value>
+      <webElementGuid>c4874b1d-e26c-48fa-bd55-5b36b5fb5711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>fc18a87c-0500-44c9-a387-28acb956e49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Isi kurang dari nilai sebelumnya' or . = 'Isi kurang dari nilai sebelumnya')]</value>
+      <webElementGuid>0df5f34a-c564-4962-b86d-9251cc210d65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
